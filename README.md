@@ -4,6 +4,7 @@
     <li>Possuir o PHP-8 devidamente instalado (Necessário as extensões: php-xml, php-mbstring, php-mysql)</li>
     <li>Possuir o XAMPP</li>
     <li>Possuir o nodejs e npm</li>
+    <li>possuir o composer</li>
 </ul>
 <h3>Configuração do Projeto</h3>
 <ul>
